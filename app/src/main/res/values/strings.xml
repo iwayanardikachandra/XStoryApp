@@ -1,0 +1,81 @@
+<resources>
+    <!-- Application Name -->
+    <string name="app_name">XStory</string>
+
+    <!--Permission-->
+    <string name="permission_denied_title">Permission Denied</string>
+    <string name="permission_denied_message">This permission is necessary to proceed. Please allow the permission.</string>
+
+    <!-- Welcome Page -->
+    <string name="title_welcome_page">Selamat datang di StoryX</string>
+    <string name="message_welcome_page">Upload Gambar dan Ceritakan Keseharianmu Sekarang!</string>
+
+    <!-- Signup Page -->
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="signup">Daftar</string>
+    <string name="name">Nama</string>
+    <string name="signup_error">Registrasi Gagal, Silahkan Coba Lagi!</string>
+
+    <!-- Login Page -->
+    <string name="title_login_page">Sudah siap untuk upload ceritamu?</string>
+    <string name="message_login_page">Masukkan dulu datamu</string>
+    <string name="login">Masuk</string>
+    <string name="login_error">Login Gagal, Silahkan Coba Lagi!</string>
+
+    <!-- Main Page -->
+    <string name="message_main_page">Selamat Belajar di Dicoding.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+
+    <!-- Add Story Page -->
+    <string name="add_story">Tambahkan Cerita</string>
+    <string name="description_text">Tuliskan Cerita Anda Hari Ini!</string>
+    <string name="input_your_image">Tolong Upload Gambar Terlebih Dahulu!</string>
+    <string name="choose_picture">Pilih Gambar</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="success_title">Berhasil Upload!</string>
+    <string name="error_title">Gagal Upload!</string>
+    <string name="input_error_title">Terjadi Kesalahan!</string>
+    <string name="timeout_title">Timeout!</string>
+    <string name="timeout_message">Maaf, Upload memerlukan waktu lebih lama dari perkiraan.</string>
+
+    <!-- Settings -->
+    <string name="setting">Pengaturan Bahasa</string>
+    <string name="avatar">Avatar</string>
+    <string name="username">Username</string>
+    <string name="location">Lokasi</string>
+
+    <!-- Story Details -->
+    <string name="created_at">Dibuat Pada:</string>
+    <string name="description">Deskripsi</string>
+
+    <!-- Validation Messages -->
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="error_email">Email tidak sesuai</string>
+    <string name="error_password">Password tidak sesuai</string>
+    <string name="min_length">Minimal %1$d karakter</string>
+    <string name="message_validation">Masukkan %1$s</string>
+
+    <!-- General Error Messages -->
+    <string name="retry">Coba Lagi</string>
+    <string name="permission_denied">Tidak Mendapatkan Akses</string>
+
+    <!-- Logout Confirmation -->
+    <string name="logout_title">Logout</string>
+    <string name="logout_message">Apakah Anda Ingin Logout?</string>
+    <string name="logout_confirm">Ya</string>
+    <string name="logout_cancel">Tidak</string>
+    <string name="okay">Oke</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <!--Maps-->
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="location_on">Lokasi On (Akses Lokasi)</string>
+    <string name="location_off">Lokasi Off (Tidak Akses Lokasi)</string>
+</resources>
